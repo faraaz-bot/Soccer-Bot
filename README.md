@@ -9,4 +9,5 @@ Bot Assembly: The core of our bot was an Arduino 4WD kit car. We assembled the k
 Movement Control: We programmed our bot's movements using C++ and Java. Special algorithms were developed to enhance gameplay and adapt to various scenarios during the competition.
 
 Bluetooth Integration: A custom mobile app was used to control the bot's movements via Bluetooth. This app communicated with the Arduino to execute commands.
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/3bf9ba59-99fd-422c-a4c4-115380ff78ec">
