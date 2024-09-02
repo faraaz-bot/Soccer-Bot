@@ -1,4 +1,5 @@
 Premier Soccer Bot League
+
 This repository contains details about our participation in the Premier Soccer Bot League. Our team, developed a custom soccer bot to compete in the league, utilizing advanced design, hardware integration, and programming techniques.
 
 Bracket Design: We used SolidWorks to design a custom bracket for our bot. This bracket was 3D printed to ensure precise fitting and durability.
